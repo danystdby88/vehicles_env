@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import pandas as pd
 df = pd.read_csv('vehicles_us.csv')
 st.title('📈 Mercado de Coches Usados: Un Vistazo Rápido')
 
