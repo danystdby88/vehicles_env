@@ -1,3 +1,6 @@
 pandas
 plotly
 streamlit
+
+#para ver el web en streamlit
+https://vehicles-env-1-pgdz.onrender.com
